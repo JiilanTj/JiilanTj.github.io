@@ -170,6 +170,7 @@ header{
 
 .scroll-btn.left {
     left: 80px;
+    top: 80px;
 }
 
 .scroll-btn.right {
