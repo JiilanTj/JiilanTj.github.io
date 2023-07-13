@@ -74,12 +74,13 @@ header{
     margin-bottom: 10px;
   }
 
-  #parallax-text h3 {
+  #parallax-text h3.sub-title {
     font-size: 45px;
     font-weight: bold;
     text-decoration: none;
     margin-bottom: 10px;
   }
+
 
   #parallax-text p {
     font-size: 20px;
