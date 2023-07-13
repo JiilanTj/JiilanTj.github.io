@@ -26,7 +26,7 @@ header{
 }
 
 .logo{
-     font-size: 1em;
+     font-weight: 600;
      color: #359381;
      pointer-events: none;
      margin-right: 350px;
