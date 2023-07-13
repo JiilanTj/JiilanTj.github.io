@@ -29,8 +29,9 @@ header{
      font-weight: 600;
      pointer-events: none;
      margin-right: 350px;
-     font-family: 'Bacasime Antique', serif;
+     font-family: 'Poppins', sans-serif;
      background: #359381;
+     border-radius: 20px;
      color: #fff;
 }
 
@@ -85,6 +86,7 @@ header{
     font-size: 20px;
     line-height: 1.5;
     width: 700px;
+    text-align: left;
   }
   
 
@@ -218,7 +220,7 @@ header{
     position: fixed;
     bottom: 20px;
     right: 20px;
-    background-color: #25D366;
+    background-color: #359381;
     color: #fff;
     display: flex;
     align-items: center;
