@@ -27,10 +27,11 @@ header{
 
 .logo{
      font-weight: 600;
-     color: #359381;
      pointer-events: none;
      margin-right: 350px;
      font-family: 'Bacasime Antique', serif;
+     background: #359381;
+     color: #fff;
 }
 
 .navigation a{
