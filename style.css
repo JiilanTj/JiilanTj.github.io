@@ -60,7 +60,7 @@ header{
 
 #parallax-text {
     position: absolute;
-    top: 50%;
+    bottom: 20px;
     left: 10%;
     transform: translateY(-50%);
     color: #fff;
@@ -80,7 +80,6 @@ header{
     text-decoration: none;
     margin-bottom: 10px;
   }
-
 
   #parallax-text p {
     font-size: 20px;
@@ -301,8 +300,3 @@ header{
         padding: 10px;
     }
 }
-
-
-
-
-
