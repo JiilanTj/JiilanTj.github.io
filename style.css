@@ -167,14 +167,13 @@ header{
     transition: background-color 0.3s ease;
 }
 
+
 .scroll-btn.left {
-    left: 20px;
-    bottom: 250px;
+    left: 50px;
 }
 
 .scroll-btn.right {
-    right: 20px;
-    top: 50px;
+    right: 50px;
 }
 
 .scroll-btn:hover {
