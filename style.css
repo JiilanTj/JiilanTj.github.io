@@ -10,7 +10,7 @@ body{
     background: #f9f9f9;
     min-height: 100vh;
     overflow-x: hidden;
-    font-family: 'Bacasime Antique', serif;
+    font-family: 'Poppins', sans-serif;
 }
 
 header{
@@ -30,6 +30,7 @@ header{
      color: #359381;
      pointer-events: none;
      margin-right: 350px;
+     font-family: 'Bacasime Antique', serif;
 }
 
 .navigation a{
@@ -61,7 +62,6 @@ header{
     left: 10%;
     transform: translateY(-50%);
     color: #fff;
-    font-family: 'Poppins', sans-serif;
     text-align: left;
   }
   
