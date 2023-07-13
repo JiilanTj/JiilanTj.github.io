@@ -65,7 +65,7 @@ header{
     transform: translateY(-50%);
     color: #fff;
     text-align: left;
-    margin-top: 80px; /* Menambahkan margin-top negatif */
+    margin-top: -20px; /* Menambahkan margin-top negatif */
 }
 
 #parallax-text h1 {
@@ -87,6 +87,7 @@ header{
     line-height: 1.5;
     width: 700px;
 }
+
 
   
 
