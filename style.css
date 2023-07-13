@@ -37,7 +37,7 @@ header{
     color: #359381;
     padding: 6px 15px;
     border-radius: 20px;
-    margin: 0 10px;
+    margin: 0 20px;
     font-weight: 600;
 }
 
@@ -61,7 +61,7 @@ header{
     left: 10%;
     transform: translateY(-50%);
     color: #fff;
-    font-family: 'Bacasime Antique', serif;
+    font-family: 'Poppins', sans-serif;
     text-align: left;
   }
   
