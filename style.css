@@ -169,11 +169,11 @@ header{
 
 
 .scroll-btn.left {
-    left: 50px;
+    left: 80px;
 }
 
 .scroll-btn.right {
-    right: 50px;
+    right: 80px;
 }
 
 .scroll-btn:hover {
