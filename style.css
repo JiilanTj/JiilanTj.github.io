@@ -50,12 +50,12 @@ header{
 }
 
 .parallax{
-    position: relative;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 100vh;   
-    margin-bottom: 120px;
+     position: absolute;
+     top: 50%;
+     left: 10%;
+     transform: translateY(-50%);
+     color: #fff;
+     text-align: left;
 }
 
 #parallax-text {
@@ -81,7 +81,7 @@ header{
 }
 
 #parallax-text p {
-    font-size: 18px;
+    font-size: 21px;
     line-height: 1.5;
     width: 700px;
 }
