@@ -65,28 +65,29 @@ header{
     transform: translateY(-50%);
     color: #fff;
     text-align: left;
-  }
-  
-  #parallax-text h1 {
+    margin-top: -20px; /* Menambahkan margin-top negatif */
+}
+
+#parallax-text h1 {
     font-size: 65px;
     font-weight: bold;
     text-decoration: none;
     margin-bottom: 10px;
-  }
+}
 
-  #parallax-text h3.sub-title {
+#parallax-text h3.sub-title {
     font-size: 20px;
     font-weight: bold;
     color: #fff;
     margin-left: 260px;
 }
 
-
-  #parallax-text p {
+#parallax-text p {
     font-size: 18px;
     line-height: 1.5;
     width: 700px;
-  }
+}
+
   
 
 #text{
