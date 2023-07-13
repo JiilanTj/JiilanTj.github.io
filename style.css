@@ -71,11 +71,20 @@ header{
     text-decoration: none;
     margin-bottom: 10px;
   }
-  
+
+  #parallax-text p {
+    font-size: 45px;
+    font-weight: bold;
+    text-decoration: none;
+    margin-bottom: 10px;
+    text-align: right;
+  }
+
   #parallax-text p {
     font-size: 20px;
     line-height: 1.5;
     width: 700px;
+    text-align: right;
   }
   
 
